@@ -7,5 +7,5 @@ This project aims to create a digital library system that allows students and st
 - Katie Purser
 - Dara O Malley
 - Sohaila Awaga
-- Alex Sidorov
+- Oleksandr Kardash
 - Sophie Ashton 
